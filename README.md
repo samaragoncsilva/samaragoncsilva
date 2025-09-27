@@ -1,5 +1,6 @@
 # 💫 About Me:
 Oi, eu me chamo Samara.
+meu email: samarasilva222220@gmail.com
 
 
 ## 🌐 Socials:
