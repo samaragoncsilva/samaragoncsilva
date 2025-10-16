@@ -1,5 +1,6 @@
 # 💫 About Me:
 oi, me chamo samara.
+meu email: samarasilva222220@gmail.com
 
 
 # 💻 Tech Stack:
