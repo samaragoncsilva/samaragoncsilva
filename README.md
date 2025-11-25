@@ -53,6 +53,8 @@
 
 ###
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)      <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)      <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
+
+
 
 
