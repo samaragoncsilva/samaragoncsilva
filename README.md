@@ -38,11 +38,12 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=samaragoncsilva&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=samaragoncsilva&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+
+![](https://github-readme-stats.vercel.app/api?username=samaragoncsilva&theme=rose&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=samaragoncsilva&theme=rose&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=samaragoncsilva&theme=rose&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 </div>
-
-
 
 
 ###
@@ -54,7 +55,5 @@
 ###
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)      <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
-
-
 
 
