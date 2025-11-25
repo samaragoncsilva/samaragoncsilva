@@ -1,9 +1,13 @@
 <br clear="both">
 
-<h1 align="center">OII, ME CHAMO SAMARA!</h1>       <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<h1 align="center">OII, ME CHAMO SAMARA!</h1>  
 
 
 ###
+
+
+
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
@@ -45,5 +49,6 @@
 
 ###
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)      <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
 
